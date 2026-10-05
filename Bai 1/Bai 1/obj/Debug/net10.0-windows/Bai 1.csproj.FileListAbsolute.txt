@@ -1,0 +1,156 @@
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Bai 1.exe
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Bai 1.deps.json
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Bai 1.runtimeconfig.json
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Bai 1.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Bai 1.pdb
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Humanizer.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Broker.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libmsalruntime.so
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\osx-x64\native\msalruntime.dylib
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\bin\Debug\net10.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.csproj.AssemblyReference.cache
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai_1.Form1.resources
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.csproj.GenerateResource.cache
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.AssemblyInfoInputs.cache
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.AssemblyInfo.cs
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.csproj.CoreCompileInputs.cache
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.csproj.Up2Date
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\refint\Bai 1.dll
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.pdb
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\Bai 1.genruntimeconfig.cache
+D:\University\CSharp\HoangDucAnh_6551071004_BTLT7\Bai 1\Bai 1\obj\Debug\net10.0-windows\ref\Bai 1.dll
